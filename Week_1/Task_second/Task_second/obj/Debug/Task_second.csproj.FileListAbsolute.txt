@@ -4,3 +4,9 @@ D:\projects_C#\Wave-5-tasks\Week_1\Task_second\Task_second\bin\Debug\Task_second
 D:\projects_C#\Wave-5-tasks\Week_1\Task_second\Task_second\obj\Debug\Task_second.csprojResolveAssemblyReference.cache
 D:\projects_C#\Wave-5-tasks\Week_1\Task_second\Task_second\obj\Debug\Task_second.exe
 D:\projects_C#\Wave-5-tasks\Week_1\Task_second\Task_second\obj\Debug\Task_second.pdb
+D:\projects_C#\Wave-5\Week_1\Task_second\Task_second\bin\Debug\Task_second.exe.config
+D:\projects_C#\Wave-5\Week_1\Task_second\Task_second\obj\Debug\Task_second.exe
+D:\projects_C#\Wave-5\Week_1\Task_second\Task_second\obj\Debug\Task_second.pdb
+D:\projects_C#\Wave-5\Week_1\Task_second\Task_second\bin\Debug\Task_second.exe
+D:\projects_C#\Wave-5\Week_1\Task_second\Task_second\bin\Debug\Task_second.pdb
+D:\projects_C#\Wave-5\Week_1\Task_second\Task_second\obj\Debug\Task_second.csprojResolveAssemblyReference.cache

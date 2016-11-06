@@ -23,15 +23,15 @@ namespace Task_second
 
             // Start task 2.1
             Main_Task_1 init1 = new Main_Task_1();
-            init1.InitTask_1();
+            //init1.InitTask_1();
 
             // Start task 2.2
             Main_Task_2 init2 = new Main_Task_2();
-            init2.InitTask_2();
+            //init2.InitTask_2();
 
             // Start task 2.3
             Main_Task_3 init3 = new Main_Task_3();
-            init3.InitTask_3();
+            //init3.InitTask_3();
 
             Console.WriteLine(new string('_', 50));
             Console.WriteLine("\n Press key enter to exit.");
