@@ -3,3 +3,9 @@ D:\projects_C#\Wave-5-tasks\Task_third\Task_third\bin\Debug\Task_third.exe
 D:\projects_C#\Wave-5-tasks\Task_third\Task_third\bin\Debug\Task_third.pdb
 D:\projects_C#\Wave-5-tasks\Task_third\Task_third\obj\Debug\Task_third.exe
 D:\projects_C#\Wave-5-tasks\Task_third\Task_third\obj\Debug\Task_third.pdb
+D:\projects_C#\Wave-5\Week_1\Task_third\Task_third\bin\Debug\Task_third.exe.config
+D:\projects_C#\Wave-5\Week_1\Task_third\Task_third\obj\Debug\Task_third.exe
+D:\projects_C#\Wave-5\Week_1\Task_third\Task_third\obj\Debug\Task_third.pdb
+D:\projects_C#\Wave-5\Week_1\Task_third\Task_third\bin\Debug\Task_third.exe
+D:\projects_C#\Wave-5\Week_1\Task_third\Task_third\bin\Debug\Task_third.pdb
+D:\projects_C#\Wave-5\Week_1\Task_third\Task_third\obj\Debug\Task_third.csprojResolveAssemblyReference.cache
