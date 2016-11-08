@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Task_third.Task_1;
 using Task_third.Task_2;
+using Task_third.Task_3;
 
 //  3.4.	В текстовом файле записаны вещественные числа (на каждой строчке - несколько, 
 //          разделены несколькими пробелами) и что-то ещё. Найти сумму чисел, игнорируя неверные лексемы.
@@ -24,7 +25,13 @@ namespace Task_third
 
             /** TASK 3.2 **/
             Main_Task_2 init2 = new Main_Task_2(@"D:\projects_C#\Wave-5\Week_1\Task_third\Task_third\Task-2\CurrentXFile.txt");
-            init2.Init_task_2();
+            //init2.Init_task_2();
+
+            /** TASK 3.3 **/
+            Main_Task_3 init3 = new Main_Task_3(@"D:\projects_C#\Wave-5\Week_1\Task_third\Task_third\Task-3\TestDir");
+            init3.Init_task_3();
+
+
 
 
             Console.WriteLine("\n "+ new string('_', 50) +"\n");
