@@ -24,8 +24,6 @@ namespace Task_fourth
         static void Main(string[] args)
         {
 
-
-
         }
     }
 }
