@@ -47,6 +47,8 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Task_1\FirstStudents.cs" />
     <Compile Include="Task_1\InitFirstStudents.cs" />
+    <Compile Include="Task_2\InitSecondStudents.cs" />
+    <Compile Include="Task_2\SecondStudents.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
