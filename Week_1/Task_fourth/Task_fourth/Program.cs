@@ -1,8 +1,10 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Task_fourth.Task_1;
 
 // 1.	Реализовать класс для организации работы со списком студентов группы, включив следующие данные: 
 //      ФИО, год рождения, домашний адрес, какую школу окончил. Вывести информацию о студентах, окончивших
@@ -24,6 +26,13 @@ namespace Task_fourth
         static void Main(string[] args)
         {
 
+            /** Task 4.1 **/
+            InitFirstStudents fstudents = new InitFirstStudents();
+            fstudents.Start();
+
+
+            Console.WriteLine("\n Press enter to exit.");
+            Console.ReadLine();
         }
     }
 }
