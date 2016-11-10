@@ -45,7 +45,7 @@ namespace Task_fourth
 
             /** Task 4.3 **/
             InitCarsDepartament cars = new InitCarsDepartament();
-            // cars.Start();
+            // cars.Start(); 
 
             Console.WriteLine("\n Press enter to exit.");
             Console.ReadLine();

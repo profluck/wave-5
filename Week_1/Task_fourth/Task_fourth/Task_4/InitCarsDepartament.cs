@@ -35,15 +35,22 @@ namespace Task_fourth.Task_4
             Console.WriteLine();
             Console.WriteLine("Input year:");
             
+            point1:
+
             do
             {
                 try
                 {
                     InputedYearPurchase = Convert.ToInt32(Console.ReadLine());
                 }
-                catch (Exception)
+                catch (FormatException)
                 {
                     Console.WriteLine("\n You have to use only numbers!\n");
+                    goto point1;
+                }
+                catch (Exception)
+                {
+                    goto point1;
                 }
 
             } while (InputedYearPurchase == 0);
@@ -63,12 +70,17 @@ namespace Task_fourth.Task_4
                 {
                     Console.WriteLine(" Марка авто: {0}, Фамилия владельца: {1}, Год приобретения: {2}, Пробег: {3}", carItem.CarBrand, carItem.CarOwner, carItem.CarYearPurchase, carItem.CarMileage);
                 }
+
+                goto point1;
             }
             else
             {
-                Console.WriteLine("Nothing is not found.");
-            }
+                Console.WriteLine(" Nothing is not found.");
+                Console.WriteLine();
 
+                goto point1;
+            }
         }
+        // The End.
     }
 }
