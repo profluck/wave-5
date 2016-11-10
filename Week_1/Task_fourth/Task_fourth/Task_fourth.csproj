@@ -51,6 +51,8 @@
     <Compile Include="Task_2\SecondStudents.cs" />
     <Compile Include="Task_3\InitLuggageDepartment.cs" />
     <Compile Include="Task_3\LuggageDepartment.cs" />
+    <Compile Include="Task_4\CarsDepartament.cs" />
+    <Compile Include="Task_4\InitCarsDepartament.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

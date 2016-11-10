@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 using Task_fourth.Task_1;
 using Task_fourth.Task_2;
 using Task_fourth.Task_3;
+using Task_fourth.Task_4;
 
 // 1.	Реализовать класс для организации работы со списком студентов группы, включив следующие данные: 
 //      ФИО, год рождения, домашний адрес, какую школу окончил. Вывести информацию о студентах, окончивших
@@ -28,6 +29,8 @@ namespace Task_fourth
         static void Main(string[] args)
         {
 
+            // !!! For the start to use certain task, you heve to uncomment some Start() method.
+
             /** Task 4.1 **/
             InitFirstStudents fStudents = new InitFirstStudents();
             // fStudents.Start();
@@ -38,8 +41,11 @@ namespace Task_fourth
 
             /** Task 4.3 **/
             InitLuggageDepartment luggages = new InitLuggageDepartment();
-            luggages.Start();
+            // luggages.Start();
 
+            /** Task 4.3 **/
+            InitCarsDepartament cars = new InitCarsDepartament();
+            // cars.Start();
 
             Console.WriteLine("\n Press enter to exit.");
             Console.ReadLine();
